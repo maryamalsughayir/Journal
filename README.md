@@ -19,10 +19,8 @@ Journali is a simple, minimal journaling app that helps you write down your thou
 - iOS 17+
 
 ## 📸 Screenshots
-<img width="200" alt="Screenshot iPhone 18 Pro 07-06-1448 AH at 5 17 10 PM" src="https://github.com/user-attachments/assets/bab06ab6-2001-4259-9002-be5f4e5a022d" />
-<img width="200" alt="Screenshot iPhone 18 Pro 07-06-1448 AH at 5 17 18 PM" src="https://github.com/user-attachments/assets/9a4bdbdc-4dad-4f77-b371-bfb95352b2f9" />
-<img width="200" alt="Screenshot iPhone 18 Pro 07-06-1448 AH at 5 15 51 PM" src="https://github.com/user-attachments/assets/0d5715fb-d39f-42ee-be43-ae54981e9b98" />
-<img width="200" alt="Screenshot iPhone 18 Pro 07-06-1448 AH at 5 16 20 PM" src="https://github.com/user-attachments/assets/421b7474-4f0a-4ace-bdb4-dd23f19ffe1c" />
+<img width="500" alt="screens" src="https://github.com/user-attachments/assets/6a410ab8-a253-47bf-92fa-0c688d37e4cf" />
+
 
 
 ## 🙏 Acknowledgments
